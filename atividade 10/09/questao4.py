@@ -1,4 +1,4 @@
-salario = float(input("informe o seu salário: "))
+salario = float(input("relate o seu salário: "))
 
 if salario <= 1900:
     imposto = 0
